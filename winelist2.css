@@ -1,0 +1,34 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+    }
+
+    header {
+        background-color:BLUE};
+        padding:5px;text-align:center;
+        font-size:45PX;
+        display: block;
+        width: 790px;
+
+    nav {
+        line-height:;
+        background-color:;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+    }
+ul p {background-color:red
+}
+
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ;
+    }
